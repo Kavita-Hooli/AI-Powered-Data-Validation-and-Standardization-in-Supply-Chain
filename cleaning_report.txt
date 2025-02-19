@@ -1,0 +1,21 @@
+
+# Data Cleaning Report
+
+## 1. Dataset Overview
+- Total Rows: 100
+- Total Columns: 24
+
+## 2. Cleaning Summary
+- Missing Values: Handled by removing rows with missing values.
+- Duplicate Rows: Removed (0 duplicates initially found).
+- Negative Values in Numeric Columns: None found.
+
+## 3. Standardization
+- Text columns (e.g., Product Type, Location) were standardized to title-case for consistency.
+
+## 4. Insights
+- [Add any findings or observations after cleaning the data.]
+
+## 5. Recommendations
+- [Add suggestions or actions based on the cleaned data.]
+
